@@ -27,35 +27,35 @@ This is a public repository for the SIT725 group project, PawFinders. The projec
 
 ## Features
 
-### 1. Dog Owner Features
-- 1.1. Signup and Login
-Users can create an account as a dog owner.
-The system validates the user.
-The system ensures the security of user credentials.
-- 1.2. Profile Management
-Dog owners can view their profiles, including personal details.
-- 1.3. Search for Dog Walkers
-Owners can search for dog walkers based on location.
-- 1.4. Booking Services
-owners can book service for the selected dog walker.
-- 1.5 Booking Notifications
-Notifications for bookings, updates, and cancellations are sent to dog owner.
-- 1.5. Real-Time view
-The profile information will be updated dynamically based on the logged-in user.
-- 1.6. Reviews
+## 1. Dog Owner Features
+### 1.1. Signup and Login
+- Users can create an account as a dog owner.
+- The system validates the user.
+- The system ensures the security of user credentials.
+### 1.2. Profile Management
+- Dog owners can view their profiles, including personal details.
+### 1.3. Search for Dog Walkers
+- Owners can search for dog walkers based on location.
+### 1.4. Booking Services
+- owners can book service for the selected dog walker.
+### 1.5 Booking Notifications
+- Notifications for bookings, updates, and cancellations are sent to dog owner.
+### 1.5. Real-Time view
+- The profile information will be updated dynamically based on the logged-in user.
+### 1.6. Reviews
 After a dog walk, owners can leave reviews and ratings for dog walkers.
 
-3. Dog Walker Features
-2.1. Signup and Login
-Users can create an account as a dog walker.
-The system validates the user.
-The system ensures the security of user credentials.
-2.2. Profile Management
-Walkers can view their profiles, including personal details.
-2.3. Confirm and View Bookings
-Walkers receive notifications when a new booking is made.
-They can confirm or decline bookings based on their availability.
-Confirmed bookings include all relevant details such as date, time, location, and services.
+## 2. Dog Walker Features
+### 2.1. Signup and Login
+- Users can create an account as a dog walker.
+- The system validates the user.
+- The system ensures the security of user credentials.
+### 2.2. Profile Management
+- Walkers can view their profiles, including personal details.
+### 2.3. Confirm and View Bookings
+- Walkers receive notifications when a new booking is made.
+- They can confirm or decline bookings based on their availability.
+- Confirmed bookings include all relevant details such as date, time, location, and services.
 
 ## Installation
 
