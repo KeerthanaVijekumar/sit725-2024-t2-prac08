@@ -39,13 +39,13 @@ To run the project locally, follow these steps:
 
 
 ##### Docker installation
-``` bash
+
 cd /project/docker file 
+``` bash
 docker build -t PawFinders .
 ```
 
 ``` bash
-cd /project/docker file 
 docker run -p 3040:3040 PawFinders
 ```
 
@@ -59,7 +59,8 @@ docker run -p 3040:3040 PawFinders
 02. Under the root directory, execute: 
 ```
 npm start
-
-03. Then open your browser and go to http://localhost:3041
 ```
+
+03. Then open your browser and go to 
+4. ```http://localhost:3041```
 
