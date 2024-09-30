@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://tridiamond.tech" target="_blank" rel="noopener noreferrer">
-    <img width="450" alt="PawFinders Logo" src="/public/src/logo.png">
+    <img width="200" alt="PawFinders Logo" src="/public/src/logo.png">
   </a>
   <br/>
   <h1> <b> PawFinders </b></h1>
