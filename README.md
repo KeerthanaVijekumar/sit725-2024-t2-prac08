@@ -43,7 +43,7 @@ This is a public repository for the SIT725 group project, PawFinders. The projec
 ### 1.5. Real-Time view
 - The profile information will be updated dynamically based on the logged-in user.
 ### 1.6. Reviews
-After a dog walk, owners can leave reviews and ratings for dog walkers.
+- After a dog walk, owners can leave reviews and ratings for dog walkers.
 
 ## 2. Dog Walker Features
 ### 2.1. Signup and Login
