@@ -37,10 +37,10 @@ This is a public repository for the SIT725 group project, PawFinders. The projec
 ### 1.3. Search for Dog Walkers
 - Owners can search for dog walkers based on location.
 ### 1.4. Booking Services
-- owners can book service for the selected dog walker.
+- Owners can book service for the selected dog walker.
 ### 1.5 Booking Notifications
 - Notifications for bookings, updates, and cancellations are sent to dog owner.
-### 1.5. Real-Time view
+### 1.5. Real-Time View
 - The profile information will be updated dynamically based on the logged-in user.
 ### 1.6. Reviews
 - After a dog walk, owners can leave reviews and ratings for dog walkers.
@@ -63,15 +63,19 @@ To run the project locally, follow these steps:
 
 ##### Docker installation
 
-cd /project/docker file 
+01. cd /project/docker file
+   cd into the path where docker file located in our project.
   ``` bash
   docker build -t pawfinders .
   ```
 
   ``` bash
-  docker run -p 3040:3040 pawfinders
+  docker run -p 3041:3041 pawfinders
   ```
-
+02. Then open your browser and go to 
+  ```
+  http://localhost:3041
+  ```
 ##### Running program in the Linux/Windows system
 
 01. Clone the repository:
