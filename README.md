@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://tridiamond.tech" target="_blank" rel="noopener noreferrer">
-    <img width="450" alt="image" src="">
+    <img width="450" alt="image" src="https://img.freepik.com/free-photo/girl-with-dog_1303-4588.jpg?t=st=1727683399~exp=1727686999~hmac=10b1629bdaa4d0d0cf07b3efc843c5b697095b71638dc8b6fd0a1ca54822c7d6&w=2000">
   </a>
   <br/>
   <h1> <b> PawFinders </b></h1>
