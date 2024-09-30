@@ -64,26 +64,27 @@ To run the project locally, follow these steps:
 ##### Docker installation
 
 cd /project/docker file 
-``` bash
-docker build -t PawFinders .
-```
+  ``` bash
+  docker build -t pawfinders .
+  ```
 
-``` bash
-docker run -p 3040:3040 PawFinders
-```
+  ``` bash
+  docker run -p 3040:3040 pawfinders
+  ```
 
 ##### Running program in the Linux/Windows system
 
 01. Clone the repository:
-
    ```
    git clone https://github.com/KeerthanaVijekumar/SIT725_PawFinders.git
    ```
 02. Under the root directory, execute: 
-```
-npm start
-```
+  ```
+  npm start
+  ```
 
 03. Then open your browser and go to 
-4. ```http://localhost:3041```
+  ```
+  http://localhost:3041
+  ```
 
