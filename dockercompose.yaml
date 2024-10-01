@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo:latest
+    container_name: mongo
+    volumes:
+      - mongo-data:/data/db
+    ports:
+      - "27017:27017"
+    networks:
+      - pawfinders-network
+
+  app:
+    build: .
+    container_name: pawfinders-app
+    env_file:
+      - .env
+    ports:
+      - "3041:3041"
+    depends_on:
+      - mongo
+    networks:
+      - pawfinders-network
+    volumes:
+      - .:/usr/src/app
+
+volumes:
+  mongo-data:
+
+networks:
+  pawfinders-network:
+    driver: bridge
